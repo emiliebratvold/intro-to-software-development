@@ -10,6 +10,6 @@ def test_find_average() -> None:
     average = find_average(test_list)  # Act: run the thing under test
     assert average == 3.0  # Assert: check the result
 
-#kommentar fikset 
+#kommentar fikset
 
 
