@@ -12,4 +12,4 @@ def test_find_average() -> None:
 
 #kommentar fikset
 
-
+#prover igjen
