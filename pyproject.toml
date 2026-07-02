@@ -12,5 +12,8 @@ license = { file = "LICENSE" }
 dependencies = ["numpy"]
 dynamic = ["version"]
 
+[project.optional-dependencies]
+dev = ["pytest"]
+
 [project.urls]
 repository = "https://github.com/<emiliebratvold>/intro-to-software-development"
